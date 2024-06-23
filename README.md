@@ -30,11 +30,7 @@ The training dataset `training_data.txt` includes sample phrases that are essent
    ```bash
    cd RestaurantChatbotUsingNLP
    ```
-3. **Install Required Libraries**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Explore the Notebooks**:
+3. **Explore the Notebooks**:
    Launch Jupyter Notebook or JupyterLab and open the `.ipynb` files:
    ```bash
    jupyter notebook
