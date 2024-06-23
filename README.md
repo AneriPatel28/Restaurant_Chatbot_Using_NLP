@@ -14,7 +14,6 @@ This repository hosts the source code and documentation for the "Restaurant Chat
 - **fast_text.ipynb**: Demonstrates how FastText is utilized for word embeddings.
 - **Untitled.ipynb**: Additional notebook (needs to be renamed for clarity based on its specific function).
 - **training_data.txt**: Text file containing sample training data for the chatbot.
-- **30_AIML_Aneri_Report.docx**: Complete dissertation report that includes detailed methodology, implementation, and results.
 
 ## Dataset Description
 
