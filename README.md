@@ -12,7 +12,6 @@ This repository hosts the source code and documentation for the "Restaurant Chat
 - **app.ipynb**: Flask application for deploying the chatbot.
 - **tsne visualizer.ipynb**: Notebook for visualizing data embeddings.
 - **fast_text.ipynb**: Demonstrates how FastText is utilized for word embeddings.
-- **Untitled.ipynb**: Additional notebook (needs to be renamed for clarity based on its specific function).
 - **training_data.txt**: Text file containing sample training data for the chatbot.
 
 ## Dataset Description
