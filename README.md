@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the source code and documentation for the "Restaurant Chatbot Using NLP" project, developed as part of a dissertation for the M.Sc. (Integrated) Five Years Program in Artificial Intelligence and Machine Learning at Gujarat University. The chatbot is designed to automate various customer interaction tasks within a restaurant setting, such as taking orders, booking tables, and responding to customer queries using natural language processing techniques.
+This repository hosts the source code and documentation for the "Restaurant Chatbot Using NLP" project. The chatbot is designed to automate various customer interaction tasks within a restaurant setting, such as taking orders, booking tables, and responding to customer queries using natural language processing techniques.
 
 ## Repository Contents
 
